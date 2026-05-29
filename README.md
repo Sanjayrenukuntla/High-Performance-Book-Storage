@@ -9,5 +9,3 @@ A full-stack web application designed to optimize book storage and retrieval. Th
 * **Admin Dashboard:** features for inventory management and sales visualization.
 * **Tech Stack:** Java (J2EE), JSP, MySQL/MongoDB, HTML/CSS (Bootstrap).
 
-## Snapshots
-(You can upload your screenshots from the report here later)
